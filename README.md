@@ -1,10 +1,6 @@
-SonarPet [![Build Status](https://travis-ci.org/TechzoneMC/SonarPet.svg?branch=master)](https://travis-ci.org/TechzoneMC/SonarPet)
+FrostPet
 ========
-A fork of [EchoPet](https://github.com/DSH105/EchoPet) updated to 1.11
-
-## **NOTE**: Unmaintained
-I'm no longer willing to be the primary maintainer of SonarPet,
-contact me on IRC if you're willing to take over this job.
+FrostPet is a fork of [EchoPet](https://github.com/DSH105/EchoPet) and [SonarPet](https://github.com/TechzoneMC/SonarPet).
 
 ## Features
 - All mobs can be pets (even enderdragons)
@@ -13,12 +9,6 @@ contact me on IRC if you're willing to take over this job.
 - A Custom AI makes all Pets focused on specific goals, handled closely by the core of the Plugin
   - Make your pets attack your enemies
 - Supports minecraft 1.6.4-1.11
-
-## Changes
-I've made some changes to EchoPet in SonarPet, which are listed below.
-- I've renamed references from 'EchoPet' to 'SonarPet'
-  - Permissions and class names remain, to retain backwards compatibility and to avoid the need to change permissions
-- I've added 1.9-1.11 support
 
 ## Requirements
 - Java 8
