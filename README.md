@@ -19,3 +19,4 @@ FrostPet is a fork of [EchoPet](https://github.com/DSH105/EchoPet) and [SonarPet
 - Techcable - 1.9-1.11 update and maintinaing SonarPet
 
 ## License
+FrostPet is licensed under the GPL v3.0.
